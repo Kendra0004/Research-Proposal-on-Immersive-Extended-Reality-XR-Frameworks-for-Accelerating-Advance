@@ -5,7 +5,7 @@ My undergraduate major was Information Technology.
 I have little experience in research and writing research papers as I have mostly worked on projects. 
 
 1) What research topic are you interested in for your research proposal? If you have an interest in more than one topic, list them in order of priority (the topic should not be too broad and must be related to your graduate program). <br>
--> Incorporating Virtual Reality in education for computer science students
+-> Immersive Extended Reality (XR) Frameworks for Accelerating Advanced Pedagogical Retention in STEM and Computer Science Architectures. 
 
 2) Why is your topic worth researching? What will be the benefits of researching this topic? <br>
 -> Comparing the result of VR implementation learning process with traditional way learning student.
