@@ -1,6 +1,6 @@
 # Research-Proposal
 ## Research Topic and Why
-I am pursuing Master’s in Information Technology.
+I was pursuing Master’s in Information Technology.
 My undergraduate major was Information Technology.
 I have little experience in research and writing research papers as I have mostly worked on projects. 
 
@@ -23,7 +23,7 @@ I have little experience in research and writing research papers as I have mostl
 7) Will you need to collect data directly from people through surveys, experiments, interviews, or questionnaires? <br>
 -> I will need to collect data directly people through interviews and questionnaires.
 
-## Screenshots
+## Screenshots of Research Proposal
 
 <img width="3300" height="2550" alt="Formally Authored Research Proposal and Methodology Framework_01_1" src="https://github.com/user-attachments/assets/ef6f279a-3331-4bcf-bb70-c3d9d696d932" />
 <img width="3300" height="2550" alt="Formally Authored Research Proposal and Methodology Framework_01_2" src="https://github.com/user-attachments/assets/6ed445b6-4b8f-44ab-969b-a0cbe6112982" />
